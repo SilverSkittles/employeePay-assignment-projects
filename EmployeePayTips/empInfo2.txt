@@ -1,0 +1,7 @@
+Darren Duchesne 42 6.45 325.25 35
+Christian Cargile 48 5.75 406.00 61.00
+Neil Palafox 41 5.45 265.63 34.00
+Emilia Rogge 32633.00 692.56 65.00
+Jamie Lanphear 27800.00 568.62 34.00
+Liza Bossert 3 75000.00
+1226.25 1162.17 6378.41
